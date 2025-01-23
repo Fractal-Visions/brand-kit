@@ -15,3 +15,4 @@ Flat Assets
 <img width="200" alt="flat FV green" src="https://github.com/user-attachments/assets/0272bc90-ac97-4a65-8809-1f1f7647bd8c" />
 <img width="200" alt="flat FV" src="https://github.com/user-attachments/assets/542f51cc-dbbe-4985-96ab-c022148505e6" />
 
+![target audience](./assets/brand-kits/Brand%20Audience.png)
